@@ -35,7 +35,7 @@ The steps in value investing process are:[<sup>2</sup>](#2)
 
 * Intrinsic Value - the discounted value of cash ([DCF Method](https://einvestingforbeginners.com/intrinsic-value-warren-buffett-aher/)) that can be taken out of a business during its remaining life.[<sup>3</sup>](#3) It is an estimate, not an exact figure. For the complete analysis and intrinsic value calculation refer to [intrinsic value notebook](intrinsic_value.ipynb).
 
-* Margin of Safety - the difference between current market price and the intrinsic value (intrinsic value should be below the current market price). The higher the risk the higher margin should be. Traditionally 70% has been used. 
+* Margin of Safety - the difference between current market price and the intrinsic value (intrinsic value should be above the current market price). The higher the risk the higher margin should be. Traditionally 30% has been used. 
 
 * Owners' Earnings — a company's net income plus depreciation and amortization, less the amount of capital expenditures and additional working capital that might be needed to operate the business as a going concern. Owner' earnings are equivalent to the cash that business owners demand from their businesses.[<sup>4</sup>](#4) Free cash flow can be used instead as a more conservative approach in the calculation of intrinsic value (used in my calculation).
 
