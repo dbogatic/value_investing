@@ -5,6 +5,8 @@
  ## Investment analysis based on the Graham and Buffett value investing methodology
  
  ## Data source - [Financial Modeling Prep API](https://financialmodelingprep.com/developer/docs)
+
+ Note: You will need FMP Starter plan to access special endpoints. You can find API plans [here](https://site.financialmodelingprep.com/developer/docs/pricing/).
  
  
 ## What is Value Investing?
